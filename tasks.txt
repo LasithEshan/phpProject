@@ -1,0 +1,19 @@
+registration
+login
+
+select
+	wood type
+	finishing
+	squarefoot/linear foot
+	price
+	add to cart
+	loop
+	checkout
+
+edit personal details
+view order
+
+contact us
+about us
+edit cart
+	
